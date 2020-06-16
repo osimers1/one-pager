@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(175, 194, 6);
+    margin-top: -20px;
+}
+li{
+    display: inline-block;
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 20px;
+    margin-right: 30px;    
+}
+li:not(:first-child){
+    border: 3px solid white;
+    border-radius: 10px;
+    padding: 10px;
+}
+li:nth-child(8){
+    margin-left: 100px;
+}
+li:last-child{
+    background-color: red;
+}
