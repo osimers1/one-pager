@@ -8,6 +8,9 @@ header{
     background-color: rgb(175, 194, 6);
     display: flex;
     width: 100vw;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
     
 }
 li{
@@ -17,19 +20,18 @@ li{
     margin-right: 30px;
     display: flex;    
     width: 100vw;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 ul{
     display: flex;
-    padding: 10px;
+    /*padding: 10px;*/
     width: 100vw;
 }
 li:not(:first-child){
     border: 3px solid white;
     border-radius: 10px;
     padding: 10px;
-}
-li:nth-child(8){
-    margin-left: 100px;
 }
 li:last-child{
     background-color: red;
