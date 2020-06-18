@@ -94,10 +94,36 @@ img.map{
     display: flex;
 }
 
+img.refuge{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+img.don{
+    margin-top: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+img.message{
+    width: 25px;
+    height: 25px;
+    margin-top: -5px;
+    margin-left: 5px;
+}
+
+img.bonhomme{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 @media screen and (max-width :1022px){
     li{
-        margin-top: 5px;
-        margin-bottom: 5px;
+        margin-top: 0px;
+        margin-bottom: 0px;
         }
 }
 
