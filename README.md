@@ -7,6 +7,6 @@ this one-pager is a fictitious site
 
 <h2>Github page : </h2>
 
-[page](https://osimers1.github.io/one-pager)
+watch the result [here](https://osimers1.github.io/one-pager)
 
 
