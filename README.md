@@ -6,4 +6,4 @@ this project is an exercise to learn HTML5 and CSS3
 this one-pager is a fictitious site
 
 <h2>Github page : </h2>
-[page](https://osimers1.github.io/one-pager/)
+![page](https://osimers1.github.io/one-pager/)
